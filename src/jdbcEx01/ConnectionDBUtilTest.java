@@ -1,7 +1,6 @@
 package jdbcEx01;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.Connection;git
 import java.sql.ResultSet;
 import java.sql.Statement;
 import jdbcEx01.vo.Person;
